@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nalu</h1>
 <h3 align="center">A passionate frontend developer, backend student and IBM intern now! 🤩</h3>
 
-- 🌱 I’m currently learning **java and nodejs**
+- 🌱 I’m currently learning **nodejs, swift 5 and cloud computing**
 
 - 👨‍💻 All of my projects are available at [my github!](my github!)
 
-- 💬 Ask me about **javascript, html, css, sql**
+- 💬 Ask me about **javascript, html, css, sql and react**
 
 - 📫 How to reach me **aluziapantoja@gmail.com**
 
