@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [my github!](my github!)
 
-- 💬 Ask me about **javascript, html, css, sql and react**
+- 💬 Ask me about **javascript, html, css, sql, react and docker!**
 
 - 📫 How to reach me **aluziapantoja@gmail.com**
 
